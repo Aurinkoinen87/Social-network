@@ -1,0 +1,16 @@
+.nav_list {
+    list-style-type: none;
+}
+
+.nav_list a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav_list li {
+    padding: 8px 0;
+}
+
+.nav_list li:nth-last-child(-n+1) {
+    margin-top: 30px;
+}
